@@ -1,8 +1,8 @@
 from email.message import EmailMessage
 import ssl
 import smtplib
-em_sender='testfor1231@gmail.com'
-em_pass='qthcvcwbundumfyc'
+em_sender='email'#sending email address
+em_pass='122222'#enter the app key
 email_rec='waxobif692@rxcay.com'
 sub= "context of the  mail"
 body="""this is the main sub"""
